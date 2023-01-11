@@ -1,4 +1,4 @@
-const Vercel = () => {
+const pn = () => {
   return (
     <a
       href="https://pnpn.vip"
@@ -39,4 +39,4 @@ const Vercel = () => {
   )
 }
 
-export default Vercel
+export default pn
